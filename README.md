@@ -2,8 +2,18 @@
 
 ###### 1. Requirements
 Install Pytorch
-The code was tested with Python3.6 torch1.4.0 pytorch 1.7.1 cuda10.2
-
+tensorflow                1.3.0
+tensorflow-tensorboard    0.1.5
+torchvision               0.1.8
+tensorboard               2.2.2
+pytorch                   1.7.1
+mayavi                    4.7.3.dev0 /4.5.0
+traits                    6.1.1
+traitsui                  5.1.0
+vtk                       8.1.2 p
+pyqt                      4.11.4
+pyqt5                     5.15.2
+qt                        4.8.5
 ###### 2.Data
 The code was trained by PCPNet Dataset
  
